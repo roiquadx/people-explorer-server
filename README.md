@@ -1,6 +1,3 @@
-**`README.md`**
-
-````md
 # People Explorer - Server (Node.js + TypeScript)
 
 Minimal Express API with TypeScript and lightweight persistence.
@@ -16,7 +13,6 @@ Minimal Express API with TypeScript and lightweight persistence.
 pnpm install
 pnpm dev
 ```
-````
 
 Server runs on: http://localhost:3001
 
@@ -26,8 +22,4 @@ Server runs on: http://localhost:3001
 pnpm install
 pnpm build
 pnpm start
-```
-
-```
-
 ```
